@@ -1,4 +1,4 @@
-# AndroidApplications
+# Android Applications
 
 App One ;
 Application Title - Latest Music ;
